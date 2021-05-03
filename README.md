@@ -1,4 +1,4 @@
-# Electron Orbitals in Minecraft
+# Atomic Orbitals in Minecraft!
 
 I-I wish I had an actual explanation about how they work... they just look cool!
 
