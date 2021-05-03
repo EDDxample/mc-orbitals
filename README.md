@@ -5,6 +5,7 @@ I-I wish I had an actual explanation about how they work... they just look cool!
 ### TODO
 
 - Vectorize computations
+- Implement datapack/binary generation for Minecraft
 - Script for a possible video
 
 ### Resources
