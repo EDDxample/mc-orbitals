@@ -18,6 +18,7 @@ I-I wish I had an actual explanation about how they work... they just look cool!
 
 ### Galery
 
+![formula](assets/formula.png)
 ![rings](assets/rings.png)
 ![shells](assets/shells.png)
 ![petals](assets/petals.png)
