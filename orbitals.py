@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 def get_probability(n, l, m, x, y, z):
     '''
-    An electron's likelihood of existing
+    An electron's likelihood of being found
     at a certain location is defined by 
 
         Pₙₗₘ(r,θ,φ) = 4πr² ψr² ψθ²
