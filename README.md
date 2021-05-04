@@ -16,7 +16,7 @@ I-I wish I had an actual explanation about how they work... they just look cool!
 - [Hydrogen Wave Function](https://en.wikipedia.org/wiki/Hydrogen_atom#Wavefunction)
 - [Generalized Laguerre Polynomials (idk)](https://en.wikipedia.org/wiki/Laguerre_polynomials#Generalized_Laguerre_polynomials)
 
-### Galery
+### Gallery
 
 ![formula](assets/formula.png)
 ![rings](assets/rings.png)
